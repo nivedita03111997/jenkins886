@@ -1,0 +1,7 @@
+C:\MyLTI\c#\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+C:\MyLTI\c#\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+C:\MyLTI\c#\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+C:\MyLTI\c#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+C:\MyLTI\c#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\MyLTI\c#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+C:\MyLTI\c#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
